@@ -1,8 +1,8 @@
-# .NET Demo
+# .NET Demo Requirement Page
 
 Project to track all efforts for a .NET demo regarding DevSecOps and CI/CD pipelines
 
-# .Net Code Demo Information - Any type of code/database/etc 
+## .Net Code Demo Information - Any type of code/database/etc 
 For a demo using other methods available, repo will support the following
 - What API/Front end?
 WebAPI
