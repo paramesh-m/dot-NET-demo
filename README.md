@@ -18,13 +18,14 @@ https://nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net/pmadaswamy/dotnetco
 ### System Requirements
 | Name | 
 | ------ | 
-| Windows 10 Enterprise for Virtual Desktops
-| .NET
-| GitLab Runner
-| GIT client
+| Windows 10 Enterprise for Virtual Desktops |
+| .NET |
+| GitLab Runner |
+| GIT client |
 
 ### Code Requirements
 | Name | 
 | ------ |
-| dotnet CLI
-| Microsoft Visual Studio Community 2019
+| dotnet CLI |
+| Microsoft Visual Studio Community 2019 |
+| Download .NET SDK for Visual Studio Code |
