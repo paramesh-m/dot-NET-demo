@@ -11,10 +11,11 @@ WebAPI
 - What Database Backend?
 Not Applicable
 The following repo will be used:
+```
 The application code was generated using dotnet CLI. This code was pushed to our GitLab Project ( Please see below for location )
-<NEED REPO LOCATION>
-https://nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net/pmadaswamy/dotnetcoreapp
-
+Previous Repo Location: https://nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net/pmadaswamy/dotnetcoreapp
+Current Repo now under this project as of 20May22
+```
 ### System Requirements
 | Name | 
 | ------ | 
