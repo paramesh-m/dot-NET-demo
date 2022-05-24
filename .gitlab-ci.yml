@@ -9,11 +9,13 @@ build:
   stage: build
   script:
     - dotnet build
+  timeout: 3h 30m
 
 test:
   stage: test
   script:
     - dotnet test
+  timeout: 3h 30m
 
 release:
   stage: release
