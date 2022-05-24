@@ -9,7 +9,7 @@ WebAPI
 - What Application Layer?
 .NET Core Application
 - What Database Backend?
-Not Applicable
+Not Applicable for this project
 
 ### Repo Information
 ```
@@ -31,3 +31,4 @@ Current Repo now under this project as of 20May22
 | dotnet CLI |
 | Microsoft Visual Studio Community 2019 |
 | Microsoft .NET SDK for Visual Studio Code |
+
