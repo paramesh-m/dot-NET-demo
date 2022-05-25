@@ -9,7 +9,7 @@ WebAPI
 - What Application Layer?
 .NET Core Application
 - What Database Backend?
-Not Applicable for this Project
+Not Applicable
 
 ### Repo Information
 ```
