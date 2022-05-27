@@ -1,6 +1,8 @@
 # .NET Demo Requirement Page
+This is a project to track all efforts for a .NET demo regarding DevSecOps and CI/CD pipelines
 
-Project to track all efforts for a .NET demo regarding DevSecOps and CI/CD pipelines
+# Purpose
+The purpose of this project is to develop a CI/CD pipeline that consists of DevSecOps prinicples using a simple .NET application to obtain lessons learned with GitLab and to be able to demonstrate DevSecOps to Nexagen customers.
 
 ## .Net Code Demo Information - Any type of code/database/etc 
 For a demo using other methods available, repo will support the following
