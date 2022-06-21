@@ -4,8 +4,7 @@ This is a project to track all efforts for a .NET demo regarding DevSecOps and C
 ## ML 1​
 
 - Planning & Tracking​
-- 
-- Manual practices defined with possible use of legacy rudimentary tools to collect and store information​
+   - Manual practices defined with possible use of legacy rudimentary tools to collect and store information​
 - 
 - Configuration Management​
 - 
