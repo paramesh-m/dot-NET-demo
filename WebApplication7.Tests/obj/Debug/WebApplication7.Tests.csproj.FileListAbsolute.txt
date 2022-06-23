@@ -1,0 +1,17 @@
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\obj\Debug\WebApplication7.Tests.csproj.AssemblyReference.cache
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\obj\Debug\WebApplication7.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\WebApplication7.Tests.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\WebApplication7.Tests.pdb
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\WebApplication7.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\WebApplication7.pdb
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\WebApplication7.dll.config
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\obj\Debug\WebApplication7.Tests.csproj.CopyComplete
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\obj\Debug\WebApplication7.Tests.dll
+C:\Users\pmadaswamy\source\repos\WebApplication7\WebApplication7.Tests\obj\Debug\WebApplication7.Tests.pdb
