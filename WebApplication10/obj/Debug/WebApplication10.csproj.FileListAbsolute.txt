@@ -1,0 +1,12 @@
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\EntityFramework.dll
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\EntityFramework.xml
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csproj.AssemblyReference.cache
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csproj.CoreCompileInputs.cache
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csproj.CopyComplete
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
