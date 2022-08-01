@@ -3,7 +3,8 @@ stages:
   
 code_quality:
   #image: docker:stable
-  image: mcr.microsoft.com/windows/servercore:1809_amd64
+  #image: mcr.microsoft.com/windows/servercore:1809_amd64
+  image: fee6961cfa3e
   variables:
     DOCKER_DRIVER: overlay2
     SP_VERSION: 0.85.6
