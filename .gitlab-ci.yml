@@ -2,13 +2,14 @@ stages:
   - test
   
 code_quality:
-  image: docker:stable
+  #image: docker:stable
+  image: mcr.microsoft.com/windows/servercore:1809_amd64
   variables:
     DOCKER_DRIVER: overlay2
     SP_VERSION: 0.85.6
   allow_failure: true
-  services:
-    - docker:stable-dind
+  #services:
+  #  - docker:stable-dind
   script:
     - docker run
         --env SOURCE_CODE="$PWD"
