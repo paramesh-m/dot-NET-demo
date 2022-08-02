@@ -4,7 +4,11 @@ stages:
 code_quality:
   #image: docker:stable
   #image: mcr.microsoft.com/windows/servercore:1809_amd64
-   - echo "${DOCKER_AUTH_CONFIG}" > ~/.docker/config.json
+
+  before_script:
+  - mkdir -p $HOME/.docker
+  - echo $DOCKER_AUTH_CONFIG > $HOME/.docker/config.json
+
    - docker login nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050
   image: fee6961cfa3e
   variables:
