@@ -4,7 +4,8 @@ stages:
 code_quality:
   #image: docker:stable
   #image: mcr.microsoft.com/windows/servercore:1809_amd64
-   docker login -u gitlab+deploy-token-2 -p hipNjtHvhsPsRAZQKpzW nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050/devsecops/demos/devsecops-demos
+   - echo "${DOCKER_AUTH_CONFIG}" > ~/.docker/config.json
+   - docker login nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050
   image: fee6961cfa3e
   variables:
     DOCKER_DRIVER: overlay2
