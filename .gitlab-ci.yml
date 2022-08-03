@@ -9,8 +9,8 @@ code_quality:
   - mkdir -p $HOME/.docker
   - echo $DOCKER_AUTH_CONFIG > $HOME/.docker/config.json
 
-   - docker login nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050
-  image: nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050/devsecops/demos/devsecops-demos/dotnetdemo:version7.0
+   #- docker login nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050
+  #image: nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050/devsecops/demos/devsecops-demos/dotnetdemo:version7.0
   variables:
     DOCKER_DRIVER: overlay2
     SP_VERSION: 0.85.6
