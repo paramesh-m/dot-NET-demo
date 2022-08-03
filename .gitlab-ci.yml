@@ -6,8 +6,8 @@ code_quality:
   #image: mcr.microsoft.com/windows/servercore:1809_amd64
 
   before_script:
-  - mkdir -p $HOME/.docker
-  - echo $DOCKER_AUTH_CONFIG > $HOME/.docker/config.json
+  #- mkdir -p $HOME/.docker
+  #- echo $DOCKER_AUTH_CONFIG > $HOME/.docker/config.json
 
    #- docker login nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050
   #image: nexagen-dev.usgovvirginia.cloudapp.usgovcloudapi.net:5050/devsecops/demos/devsecops-demos/dotnetdemo:version7.0
