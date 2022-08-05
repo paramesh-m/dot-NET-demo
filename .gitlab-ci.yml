@@ -1,26 +1,9 @@
-image : mcr.microsoft.com/dotnet/sdk:5.0
-
 stages:
-  - build
   - test
-  - release
 
-build:
-  stage: build
-  script:
-    - dotnet build
+include:
+  - template: Code-Quality.gitlab-ci.yml
 
-test:
-  stage: test
-  script:
-    - dotnet test
-
-release:
-  stage: release
-  only:
-    - master
+code_quality:
   artifacts:
-    paths:
-      - publish/
-  script:
-    - dotnet publish -c Release -o ../publish dotnetcoreapp/dotnetcoreapp.csproj
+    paths: [gl-code-quality-report.json]
