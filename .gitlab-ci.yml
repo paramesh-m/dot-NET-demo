@@ -2,7 +2,7 @@ stages:
   - test
 
 include:
-  - template: Code-Quality.gitlab-ci.yml  
+  - template: Code-Quality.gitlab-ci.yml 
  
 code_quality:
   artifacts:
