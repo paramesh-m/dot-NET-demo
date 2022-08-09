@@ -1,5 +1,3 @@
-Code-Quality.gitlab-ci.yml
-1.61 KiB
 code_quality:
   stage: test
   image: docker:20.10.12
