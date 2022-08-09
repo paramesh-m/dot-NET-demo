@@ -41,7 +41,7 @@ code_quality:
           CODECLIMATE_PREFIX \
         ) \
         --volume "$PWD":/code \
-        --volume /var/run/docker.sock:/var/run/docker.sock \
+        --volume c:\builds \
         "$CODE_QUALITY_IMAGE" /code
 artifacts:
     reports:
