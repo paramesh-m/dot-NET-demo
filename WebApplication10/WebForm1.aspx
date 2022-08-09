@@ -28,6 +28,8 @@
                     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                 </td>
             </tr>
+
+
             <tr>
                 <td class="auto-style3">Module Type</td>
                 <td>
@@ -50,6 +52,8 @@
                 <td class="auto-style3">&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
+
+
             <tr>
                 <td class="auto-style3">&nbsp;</td>
                 <td>
@@ -70,6 +74,9 @@
                 </td>
             </tr>
         </table>
+
+
+
         <table class="auto-style2">
             <tr>
                 <td class="auto-style3">&nbsp;</td>

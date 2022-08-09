@@ -10,3 +10,15 @@ C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\Web
 C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csproj.CopyComplete
 C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
 C:\Users\pmadaswamy\source\repos\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\WebApplication10.dll
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\WebApplication10.pdb
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\EntityFramework.dll
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\EntityFramework.xml
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\obj\Debug\WebApplication10.csproj.AssemblyReference.cache
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\obj\Debug\WebApplication10.csproj.CoreCompileInputs.cache
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\obj\Debug\WebApplication10.csproj.CopyComplete
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\blee\Source\Repos\devsecops-demos\WebApplication10\obj\Debug\WebApplication10.pdb
