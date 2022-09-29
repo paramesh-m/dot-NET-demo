@@ -1,4 +1,4 @@
- Purpose
+ Purpose   
 The purpose of this project is to develop a CI/CD pipeline that consists of DevSecOps prinicples using a simple .NET application to obtain lessons learned with GitLab and to be able to demonstrate DevSecOps to Nexagen customers.
 
 
